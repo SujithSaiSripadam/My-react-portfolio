@@ -1,6 +1,6 @@
 import "./portfolio.css";
 
-import IMG1 from "src/assets/Screenshot 2022-12-09 at 8.22.23 PM.png";
+import IMG1 from "../../assets/Screenshot 2022-12-09 at 8.22.23 PM.png";
 
 import React from "react";
 

@@ -15,7 +15,10 @@
 
 .about__me-image {
     border-radius: 2rem;
+    width: 100%;
+    aspect-ratio: 1/1;
     overflow: hidden;
+    place-items: center;
     transition: var(--transition);
 }
 

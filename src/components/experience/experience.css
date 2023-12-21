@@ -28,8 +28,8 @@
 
 .experience__content {
     display: grid;
-    grid-template-columns: 2fr 1fr;
-    row-gap: 2rem;
+    grid-template-columns: 2fr  2fr;
+    row-gap: 1rem;
 }
 
 .experience__details {
@@ -42,25 +42,25 @@
     color: var(--color-primary);
 }
 
-@media screen and (max-width: 1024px){
+@media screen and (max-width: 1080px){
     .experience__container {
-        grid-template-columns: 1fr;
+        grid-template-columns: 2fr;
     }
 
     .experience__container > div {
         width: 80%;
         margin: 0 auto;
-        padding: 2rem;
+        padding: 1rem;
     }
 
     .experience__content p {
-        padding: 1rem;
+        padding: 2rem;
     }
 }
   
-@media screen and (max-width: 600px){
+@media screen and (max-width: 800px){
     .experience__container {
-        gap: 1rem;
+        gap: 2rem;
     }
 
     .experience__container > div {

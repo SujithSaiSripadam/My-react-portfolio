@@ -32,8 +32,11 @@ const Intro = () => {
             </article>
           </div>
           <p>
-          I am a highly motivated student of chemical engineering and a passionate tech enthusiast with a diverse skill set. I possess expertise in programming languages like C++, C, and Python, and good at front-end development. My strong willpower and determination set me apart, and I have a keen desire to learn and grow in my field.My technical skills extend beyond chemical engineering, and I have a solid foundation in programming. I am proficient in C++, C, and Python and can develop complex algorithms, applications, and software solutions. 
-          .However, my greatest asset is my sheer willpower and determination. I possess a strong work ethic and  committed to achieving my goals. I am willing to put in the effort and time required to learn new skills and overcome challenges.
+          Hello! I am Sujith, a pre-final year undergraduate student at NIT Rourkela, Rourkela, India majoring in Chemical Engineering. I am a Computer vision and A.I. Enthusiast and I try to devote maximum of my time towards increasing my knowledge and contributing to the research in domains of Computer Vision and Deep Learning.
+My research interests are inclined towards SLAM, Perception, NeRF, Pose Estimation, Object Recognition, Object Detection, 3D Image reconstruction and 3D vision.
+With the projects and research I am currently doing, I am trying to gain maximum knowledge and achieve complete understanding of visual world!
+I am involved in various research teams working in computer vision, deep learning and cross domain tasks with involve building deep learning models. I previously had a research experience in building computer vision models for a NAO Robot. I’ve made the mode to deliver 20% better performance than the standard YOLO model.
+These experiences helped me being more interested and keen towards research and developing better Computer vision models.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

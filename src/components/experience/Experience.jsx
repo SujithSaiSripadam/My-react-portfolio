@@ -63,7 +63,7 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Neural Radiance Fields (NeRF)</h4>
+              <h4>Representation Learning</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
@@ -79,7 +79,7 @@ const Experience = () => {
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>3D Vision</h4>
+              <h4>Graph Neural Networks</h4>
             </article>
           </div>
         </div>
